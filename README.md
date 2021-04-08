@@ -19,7 +19,7 @@
 
 ---
   
-# Overview
+## Overview
 
 ToCustomByYourself, is a pack (obviously) made for beginners in creation and modification of Counter Strike Source, it contains the main programs needed and some files so them can easily start making their own files! I'm also making tutorials videos in my [Youtube](https://www.youtube.com/channel/UC-WNF8P9rAB7U6JUG5QrZlA) channel
 
@@ -30,7 +30,7 @@ These will link you to the latest builds found in the [releases](https://github.
 | [Quick Download](https://github.com/PL4GUe1337/pl4gues-TCBY-Pack/releases/latest/download/pl4gue.s.TCBY.Pack.rar)  |
 | ------------- |
 
-# In-depth
+## In-depth
 
 ```
 .
