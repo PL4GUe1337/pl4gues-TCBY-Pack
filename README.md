@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#overview">Overview</a> |
   <a href="#downloads">Downloads</a> |
-  <a href="#current">Current State</a>
+  <a href="#current-state">Current State</a>
 </p>
 <p align="center">
   <br/>
