@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#overview">Overview</a> |
   <a href="#downloads">Downloads</a> |
-  <a href="#in-depth">In-depth</a>
+  <a href="#current">Current State</a>
 </p>
 <p align="center">
   <br/>
@@ -30,7 +30,7 @@ These will link you to the latest builds found in the [releases](https://github.
 | [Quick Download](https://github.com/PL4GUe1337/pl4gues-TCBY-Pack/releases/latest/download/pl4gue.s.TCBY.Pack.rar)  |
 | ------------- |
 
-## In-depth
+## Current State
 
 ```
 .
