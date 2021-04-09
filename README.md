@@ -40,7 +40,7 @@ These will link you to the latest builds found in the [releases](https://github.
 ├──Textures                // Textures folder.
 └──Programs                // Every single program you should have/use when modifying Source games.
     ├──Crowbar             // GoldSource and Source Engine Modding Toolset. (explained but not used in my tutorials)
-    ├──GCFScape            // Essentially Crowbar for beg (sadly don't decompile .mdl)
+    ├──GCFScape            // Essentially Crowbar for beginners (sadly don't decompile .mdl)
     ├──PSCS6 Portable      // PhotoShop (used for image editing)
     └──VTFEdit             // Compiler for the texture files.
 
