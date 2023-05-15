@@ -1,4 +1,4 @@
-<h1 align="center">ᴘʟ4ɢ_'s ToCustomByYourself Pack</h1>
+<h1 align="center">• tcby •</h1>
 <p align="center">
   <a href="#overview">Overview</a> |
   <a href="#downloads">Downloads</a> |
@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <br/>
-  A Counter Strike Source Modification Pack which contains the main programs needed!
+  A Source Engine Toolbox which contains the main programs needed!
   <br/>
   <br/>
    <a href="https://github.com/PL4GUe1337/pl4gues-TCBY-Pack/releases/" target="_blank">
@@ -18,7 +18,7 @@
   
 ## Overview
 
-ToCustomByYourself, is a pack (obviously) made for beginners in creation and modification of Counter Strike Source, it contains the main programs needed and some files so them can easily start making their own files! I'm also making tutorials videos in my [Youtube](https://www.youtube.com/channel/UC-WNF8P9rAB7U6JUG5QrZlA) channel
+ToCustomByYourself, is a pack made for beginners in creation and modification of the Source Engine, it contains the main programs needed and some files, so them can easily start making their own!
 
 ### Folderbase
 
@@ -47,7 +47,7 @@ These will link you to the latest builds found in the [releases](https://github.
 
 <h1 align="center">Current State</h1>
 
-<p align="center">Current state: <b>33% progress to v1.0</b></p>
+<p align="center">Current state: <b>Discontinued at 33% progress to v1.0</b></p>
 <p align="center">
   <a href=https://github.com/PL4GUe1337/pl4gues-TCBY-Pack/releases/latest><img src="https://img.shields.io/github/v/release/PL4GUe1337/pl4gues-TCBY-Pack?labelColor=0c0d10&color=3a71c1&include_prereleases&label=Latest%20Release&style=for-the-badge" alt="Latest Release"/>
     <img src="https://img.shields.io/github/last-commit/PL4GUe1337/pl4gues-TCBY-Pack?labelColor=0c0d10&color=%233a71c1&logo=%230c0d10&logoColor=%230c0d10&label=Lastest%20Release%20Date&style=for-the-badge" alt="Latest Release Date"></a>
