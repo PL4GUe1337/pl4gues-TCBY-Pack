@@ -18,7 +18,7 @@
   
 ## Overview
 
-ToCustomByYourself, is a pack made for beginners in creation and modification of the Source Engine, it contains the main programs needed and some files, so them can easily start making their own!
+"To Custom By Yourself" aka tcby, is a pack made for beginners in creation and modification of the Source Engine, it contains the main programs needed and some files, so them can easily start making their own!
 
 ### Folderbase
 
